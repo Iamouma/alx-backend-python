@@ -1,2 +1,2 @@
-alx-Python
-Back-end
+alx-python
+back-end
